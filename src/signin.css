@@ -1,0 +1,72 @@
+.bor{
+    border: 1px solid black;
+    box-sizing: content-box;
+    margin-left: 270px;
+    margin-top: 50px;
+    max-width:860px;   
+    height:545px; 
+    background-color:#fcfcfc;
+}
+
+.reghead{
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+.signin-label{
+    margin-left: 70px;
+    font-weight:800;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+.signin-input{
+    border-radius: 5px;
+    border-color: rgb(182, 145, 255);
+    margin-left: 70px;
+    font-weight:800;
+    padding: 10px;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+.no{
+    margin-left: 0px;
+    font-weight: normal;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+.signin-img{
+    float: left;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+#for{
+    float: none;
+    margin-left: 70px;
+    font-size: smaller;
+    color: rgb(0, 0, 255);
+    margin-top: 10px;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+.signin-button{
+    margin-left: 70px;
+    padding: 7px;
+    width: 330px;
+    border-radius: 5px;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+#pas{
+    float: right;
+    margin-right: 10px;
+    margin-top: 3px;
+    font-size: medium;
+    color: blue;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+#sin{
+    margin-left: 185px;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+.SignIn-a{
+    float: right;
+    margin-right: 10px;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    margin-top: 5px;
+}
